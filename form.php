@@ -1,6 +1,5 @@
 <?php
-
-
+//qui i commenti
 ?>
 
 
@@ -10,17 +9,15 @@
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/css/bootstrap.min.css'
-    integrity='sha512-SbiR/eusphKoMVVXysTKG/7VseWii+Y3FdHrt0EpKgpToZeemhqHeZeLWLhJutz/2ut2Vw1uQEj2MbRF+TVBUA=='
-    crossorigin='anonymous' />
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.2.3/css/bootstrap.min.css' integrity='sha512-SbiR/eusphKoMVVXysTKG/7VseWii+Y3FdHrt0EpKgpToZeemhqHeZeLWLhJutz/2ut2Vw1uQEj2MbRF+TVBUA==' crossorigin='anonymous' />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>php-badwords</title>
   <style>
-  @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
 
-  body {
-    font-family: 'Nunito', sans-serif;
-  }
+    body {
+      font-family: 'Nunito', sans-serif;
+    }
   </style>
 </head>
 
@@ -36,8 +33,7 @@
       </div>
       <div class="mb-3">
         <label for="lastname" class="form-label">Cognome</label>
-        <input type="text" class="form-control" id="lastname" name="lastname" aria-describedby="emailHelp"
-          placeholder="Cognome">
+        <input type="text" class="form-control" id="lastname" name="lastname" aria-describedby="emailHelp" placeholder="Cognome">
       </div>
       <div class="mb-3">
         <label for="email" class="form-label">Email</label>

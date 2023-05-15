@@ -4,7 +4,6 @@ $lastname = $_POST['lastname'];
 $email = $_POST['email'];
 $text = $_POST['text'];
 $newText = str_replace($text, '***', $text);
-
 ?>
 
 <!DOCTYPE html>
